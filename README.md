@@ -1,1 +1,1 @@
-cd app
+In terminal ''cd app''
