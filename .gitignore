@@ -1,0 +1,57 @@
+# compiled output
+dist
+/dist
+/tmp
+
+# dependencies
+/node_modules
+node_modules/
+/bower_components
+
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+npm-debug.log
+firebase-debug.log
+yarn-error.log
+*/**/*.prod.js
+*/**/package.lock.json
+
+# Prod config
+*.prod.*
+
+
+# But track these
+!webpack.config.prod.js
+
+
+
+
+
